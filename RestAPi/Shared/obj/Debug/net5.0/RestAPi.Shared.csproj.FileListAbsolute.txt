@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\bin\Debug\net5.0\RestAPi.Shared.deps.json
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\bin\Debug\net5.0\RestAPi.Shared.runtimeconfig.json
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\bin\Debug\net5.0\RestAPi.Shared.runtimeconfig.dev.json
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\bin\Debug\net5.0\RestAPi.Shared.dll
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\bin\Debug\net5.0\ref\RestAPi.Shared.dll
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\bin\Debug\net5.0\RestAPi.Shared.pdb
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\obj\Debug\net5.0\RestAPi.Shared.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\obj\Debug\net5.0\RestAPi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\obj\Debug\net5.0\RestAPi.Shared.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\obj\Debug\net5.0\RestAPi.Shared.AssemblyInfo.cs
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\obj\Debug\net5.0\RestAPi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\obj\Debug\net5.0\RestAPi.Shared.dll
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\obj\Debug\net5.0\ref\RestAPi.Shared.dll
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\obj\Debug\net5.0\RestAPi.Shared.pdb
+C:\Users\User\source\repos\RestAPi\RestAPi\Shared\obj\Debug\net5.0\RestAPi.Shared.genruntimeconfig.cache
